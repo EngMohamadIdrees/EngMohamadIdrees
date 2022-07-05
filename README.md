@@ -6,9 +6,9 @@
 <image  align="left" src="https://static.thenounproject.com/png/1408781-200.png" width="40" height="40"><h1 style="color: brown;">About Me</h1> </image>
 🌱 I’m currently learning <b>Flutter</b>
 
-- 🤝 I’m currently open for  <b>An Internet</b>  or a <b>new job opportunities</b> <a href="https://docs.google.com/document/d/1ekd1i_vfEoMxVN1I3lmZhJkxObv1duUu/edit?usp=sharing&ouid=100332348761665058851&rtpof=true&sd=true">this is My RESUME </a>
+🤝 I’m currently open for  <b>An Internet</b>  or a <b>new job opportunities</b> <a href="https://docs.google.com/document/d/1ekd1i_vfEoMxVN1I3lmZhJkxObv1duUu/edit?usp=sharing&ouid=100332348761665058851&rtpof=true&sd=true">this is My RESUME </a>
 
-- 📫 How to reach me **mohamadidrees@mail.ru**
+📫 How to reach me **mohamadidrees@mail.ru**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
