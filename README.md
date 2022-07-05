@@ -4,13 +4,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohamadidrees&label=Profile%20views&color=0e75b6&style=flat" alt="engmohamadidrees" /> </p>
 <image  align="left" src="https://static.thenounproject.com/png/1408781-200.png" width="40" height="40"><h1 style="color: brown;">About Me</h1> </image>
-🌱 I’m currently learning <b>Flutter</b>
+- 🌱 I’m currently learning <b>Flutter</b>
 
-🤝 I’m currently open for  <b>An Internet</b>  or a <b>new job opportunities</b> <a href="https://docs.google.com/document/d/1ekd1i_vfEoMxVN1I3lmZhJkxObv1duUu/edit?usp=sharing&ouid=100332348761665058851&rtpof=true&sd=true">this is My RESUME </a>
+- 🤝 I’m currently open for  <b>An Internet</b>  or a <b>new job opportunities</b> <a href="https://docs.google.com/document/d/1ekd1i_vfEoMxVN1I3lmZhJkxObv1duUu/edit?usp=sharing&ouid=100332348761665058851&rtpof=true&sd=true">this is My RESUME </a>
 
-📫 How to reach me **mohamadidrees@mail.ru**
+- 📫 How to reach me **mohamadidrees@mail.ru**
 
-<h3 align="left">Connect with me:</h3>
+<image  align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9CfoNg-aAM8YNbSoKTxcLKc2rVhnrYwGRsiM-wZcksfhTrP_gNlIBVZNzR-QFNJ19-o&usqp=CAU" width="40" height="40"><h1 style="color: brown;">Connect with me:</h1> </image>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamad-idrees-009b4a194/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad idrees" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Mohamadidrees18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamad idrees" height="30" width="40" /></a>
