@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 🤝 I’m currently open for An Internet or a new job opportunities](this is My RESUME)
+- 🤝 I’m currently open for  <b>An Internet</b>  or a <b>new job opportunities</b> this is My RESUME
 
 - 📫 How to reach me **mohamadidrees@mail.ru**
 
