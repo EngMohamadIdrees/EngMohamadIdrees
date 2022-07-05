@@ -1,4 +1,4 @@
-<image align="master" alt="Coding" width="400" src="https://www.inventateq.com/assets/python/small.gif"></image>
+
 <h1 align="center">Hi 👋, I'm Mohamad Idrees</h1>
 <h3 align="center">Bioinformatics Engineer and Mobile Development from Syria</h3>
 <image align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/28/35/b0/2835b06c053a1fdab58a4b8d7006f73b.gif"></image>
