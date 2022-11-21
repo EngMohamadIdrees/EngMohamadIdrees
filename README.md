@@ -4,6 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohamadidrees&label=Profile%20views&color=0e75b6&style=flat" alt="engmohamadidrees" /> </p>
 <image  align="left" src="https://static.thenounproject.com/png/1408781-200.png" width="40" height="40"><h1 style="color: brown;">About Me</h1> </image>
+* Studies **Bioinformatics** at [Faculty of Computers and Artificial Intelligence Cairo University](https://www.facebook.com/Faculty-of-Computers-and-Artificial-Intelligence-Cairo-University-111736953497657/)
+
+* **‎Head PR **‎ at‏ ‏‎[BIO CODE Cairo University](https://www.facebook.com/BioCodeFciCu/)
 - 🌱 I’m currently learning <b>Front End</b>
 
 - 🤝 I’m currently open for  <b>An Internet</b>  or a <b>new job opportunities</b> <a href="https://docs.google.com/document/d/19ilDRS9AoEHf6ypS2hriE_5gyU2x6n_F/edit?usp=sharing&ouid=114552079580120597788&rtpof=true&sd=true">this is My RESUME </a>
