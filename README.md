@@ -14,7 +14,7 @@
 - 📫 How to reach me **engmohamadidrees@gmail.com**
 <br><br>
 
-<image  align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9CfoNg-aAM8YNbSoKTxcLKc2rVhnrYwGRsiM-wZcksfhTrP_gNlIBVZNzR-QFNJ19-o&usqp=CAU" width="40" height="40"><h1 style="color: brown;">Connect with me:</h1> </image>
+<image  align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTS9CfoNg-aAM8YNbSoKTxcLKc2rVhnrYwGRsiM-wZcksfhTrP_gNlIBVZNzR-QFNJ19-o&usqp=CAU" width="30" height="30"><h1 style="color: brown;">Connect with me:</h1> </image>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamad-idrees/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamad idrees" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Mohamadidrees18/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamad idrees" height="30" width="40" /></a>
