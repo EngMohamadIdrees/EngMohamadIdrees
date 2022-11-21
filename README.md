@@ -1,10 +1,10 @@
 <h1 align="center" style="color:blue ;">Hi 👋, I'm Mohamad Idrees</h1>
-<h3 align="center" style="color: red;">Software Engineer and Mobile Development </h3>
+<h3 align="center" style="color: red;">Software Engineer</h3>
 <image align="right" alt="Coding" width="400" src="https://voxyard.com/assets/img/content/coding.gif"></image>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engmohamadidrees&label=Profile%20views&color=0e75b6&style=flat" alt="engmohamadidrees" /> </p>
 <image  align="left" src="https://static.thenounproject.com/png/1408781-200.png" width="40" height="40"><h1 style="color: brown;">About Me</h1> </image>
-- 🌱 I’m currently learning <b>Kotlin</b>
+- 🌱 I’m currently learning <b>Front End</b>
 
 - 🤝 I’m currently open for  <b>An Internet</b>  or a <b>new job opportunities</b> <a href="https://docs.google.com/document/d/19ilDRS9AoEHf6ypS2hriE_5gyU2x6n_F/edit?usp=sharing&ouid=114552079580120597788&rtpof=true&sd=true">this is My RESUME </a>
 
